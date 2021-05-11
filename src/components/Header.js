@@ -1,6 +1,6 @@
 import React from "react";
 
-function Heading(){
+function Header(){
     return (
         <div>
             <header>
@@ -10,4 +10,4 @@ function Heading(){
     );
 }
 
-export default Heading;
+export default Header;
